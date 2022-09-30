@@ -8,7 +8,7 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=AstrqlDev&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
 
-Hi 👋, my name is AstrqlDev, or Astral. I am a self-taught cheat developer that has a passion for programming, and mathmatics.
+Hi 👋, my name is AstrqlDev, or Astral. I am a self-taught cheat developer that has a passion for programming, and mathematics.
 
 My passion towards developing and problem-solving started at a young age. Now I strive to improve my skills and learn about new technologies and topics 
 to the best of my ability. Currently, I use the following technologies for various projects:
